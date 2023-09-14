@@ -38,5 +38,5 @@
 
 
 # 참고 링크 및 코드 개선
-https://github.com/janusis/AIFFEL_Exploration/blob/main/Quest02/%5B%ED%80%98%EC%8A%A4%ED%8A%B8_2%5D_%EA%B1%B0%EB%B6%81%EC%9D%B4_%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0.ipynb
-* 리뷰 후 코드가 더 개선이 되었습니다.
+CHAT GPT를 참고 하셨음.
+
