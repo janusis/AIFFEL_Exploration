@@ -1,4 +1,4 @@
-## 2. 거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니? [프로젝트]
+## 2-1. 프로젝트: 새로운 데이터셋으로 나만의 이미지 분류기 만들어보기
 
 ## AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 송민찬
